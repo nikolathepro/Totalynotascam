@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding: 20px;
+    background-color: lightblue;
+}
+
+header a{
+    text-decoration: none;
+    font-size: 20px;
+    color: cyan;
+    border: 2px solid blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: aquamarine;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-decoration: none;
+    color: blue;
+}
+
+main p {
+    margin-left: 20px;
+}
+
+footer {
+    padding: 20px;
+}
+
+footer a {
+    padding: 20px;
+}
